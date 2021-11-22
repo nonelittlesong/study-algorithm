@@ -4,3 +4,4 @@
 - [算法课程（要钱）](https://zhuanlan.zhihu.com/p/161204634)
 - [如何刷 LeetCode - github](https://github.com/azl397985856/leetcode)
 - [chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base)
+- [Math is Fun](https://mathsisfun.com/)
